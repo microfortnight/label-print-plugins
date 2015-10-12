@@ -12,3 +12,8 @@ These labels can be printed from ~~any~~ most Mac applications using the system 
 ![](docs/screenshots/001-print-original.png)
 ### After
 ![](docs/screenshots/004-print-label.png)
+
+## Credits
+[ImageMagick®](http://www.imagemagick.org) is used to crop/rotate/modify images
+
+[Lukas Alperowitz](https://getablogtheysaid.wordpress.com/2013/03/28/dhl-labels-fur-labeldrucker-aufbereiten-mac/) had the original idea and created a drag n'drop Automator workflow for DHL shipping labels
